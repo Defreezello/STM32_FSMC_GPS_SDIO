@@ -1,0 +1,3 @@
+../Core/Src/map.c:45:7:PrintBigMap	3
+../Core/Src/map.c:17:7:PrintBigMapFirst	4
+../Core/Src/map.c:63:6:PrintCoordinatesPoint	5

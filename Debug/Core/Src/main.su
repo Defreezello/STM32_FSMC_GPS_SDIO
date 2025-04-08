@@ -1,0 +1,11 @@
+../Core/Src/main.c:308:6:Print_Vbat_Temp	24	static
+../Core/Src/main.c:347:9:GetDayOfWeek	8	static
+../Core/Src/main.c:322:6:SetTime	32	static
+../Core/Src/main.c:361:6:Get_Time_For_LCD	48	static
+../Core/Src/main.c:371:6:GPS_PrintSatellites	8	static
+../Core/Src/main.c:387:6:GPSfoundPrint	8	static
+../Core/Src/main.c:397:6:HAL_UART_RxCpltCallback	8	static
+../Core/Src/main.c:422:6:HAL_GPIO_EXTI_Callback	8	static
+../Core/Src/main.c:436:6:Error_Handler	8	static,ignoring_inline_asm
+../Core/Src/main.c:265:6:SystemClock_Config	88	static
+../Core/Src/main.c:93:5:main	32	static
