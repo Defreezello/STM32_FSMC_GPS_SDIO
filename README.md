@@ -1,5 +1,5 @@
 # STM32_FSMC_GPS_SDIO
-STM32F407 GPS navigation device using ili9341 display and loading maps from a microSD card
+STM32F407VET6 GPS navigation device using ili9341 display and loading maps from a microSD card
 
 This project include: FSMC for ili9341 display, USART for GPS module, SDIO for microSD with map(s), SPI for touch XPT2046,
 ADC connection to Vbat on the board.
@@ -10,6 +10,7 @@ Input frequency is 8MHz - HSE and 32.768KHz - LSE(to RTC)
 MicroSD works at maximum speed 48MHz! 
 
 Connections:
+
 FSMC:
 FSMC_D0 - PD14
 FSMC_D1 - PD15
