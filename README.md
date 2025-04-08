@@ -10,7 +10,6 @@ Input frequency is 8MHz - HSE and 32.768KHz - LSE(to RTC)
 MicroSD works at maximum speed 48MHz! 
 
 Connections:
-
 FSMC:
 FSMC_D0 - PD14
 FSMC_D1 - PD15
